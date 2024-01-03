@@ -1,4 +1,4 @@
-*Welcome to our Android application!*
+***Welcome to our Android application!***
 - This app is designed to provide users with a seamless and secure experience right from the start.
 The journey begins with a captivating splash screen that sets the tone for what's to come.
 
@@ -12,7 +12,7 @@ The journey begins with a captivating splash screen that sets the tone for what'
  
  ![a](https://github.com/Muskan-Thakur/NotesPro_App-Android-/assets/106293646/bd862012-5ca6-408b-8f42-24dff5ab211c)
 
- To ensure the highest level of security, we've incorporated an email verification process. This step adds an extra layer of protection to your account and guarantees a safe and reliable experience.
+ **To ensure the highest level of security, we've incorporated an email verification process. This step adds an extra layer of protection to your account and guarantees a safe and reliable experience.**
  
 - we've made it easy for users to confirm their accounts. 
 
@@ -30,13 +30,13 @@ The journey begins with a captivating splash screen that sets the tone for what'
  
  ![g](https://github.com/Muskan-Thakur/NotesPro_App-Android-/assets/106293646/69059621-0a55-429e-9ada-a3a2c4e73c0b)
 
- -The app provides a seamless note-taking experience with options to edit, delete, and organize your notes according to your preferences.
+ **-The app provides a seamless note-taking experience with options to edit, delete, and organize your notes according to your preferences.**
  
  ![e](https://github.com/Muskan-Thakur/NotesPro_App-Android-/assets/106293646/1d0da5ac-868d-4ae2-abf6-c7fd4ee8b13c)
 
- -Your data is securely stored, ensuring the privacy of your thoughts and ideas. 
+ **-Your data is securely stored, ensuring the privacy of your thoughts and ideas.**
  
- -We believe in giving users the flexibility to tailor their experience, so you can personalize your notes and make the app truly yours.
+ **-We believe in giving users the flexibility to tailor their experience, so you can personalize your notes and make the app truly yours.**
  
  ![d](https://github.com/Muskan-Thakur/NotesPro_App-Android-/assets/106293646/871e0f41-1edc-4c23-83a2-4a6360d80fc6)
  
