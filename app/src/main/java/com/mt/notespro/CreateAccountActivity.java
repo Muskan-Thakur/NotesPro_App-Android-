@@ -23,7 +23,6 @@ public class CreateAccountActivity extends AppCompatActivity {
     ProgressBar progressBar;
     TextView loginBtnTextView;
 
-    @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -33,7 +32,7 @@ public class CreateAccountActivity extends AppCompatActivity {
         passwordEditText = findViewById(R.id.password_edit_text);
         confirmPasswordEditText = findViewById(R.id.confirm_password_edit_text);
         createAccountBtn = findViewById(R.id.create_account_btn);
-        progressBar = findViewById(R.id.Progress_bar);
+        progressBar = findViewById(R.id.progress_bar);
         loginBtnTextView = findViewById(R.id.login_text_view_btn);
 
         createAccountBtn.setOnClickListener(v-> createAccount());
